@@ -3879,11 +3879,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\workspace\\mad-sad-glad\\api\\MadSadGladApi\\MadSadGladApi.csproj",
+      "projectUniqueName": "D:\\workspace\\mad-sad-glad\\api\\MadSadGladApi.csproj",
       "projectName": "MadSadGladApi",
-      "projectPath": "D:\\workspace\\mad-sad-glad\\api\\MadSadGladApi\\MadSadGladApi.csproj",
+      "projectPath": "D:\\workspace\\mad-sad-glad\\api\\MadSadGladApi.csproj",
       "packagesPath": "C:\\Users\\Umut\\.nuget\\packages\\",
-      "outputPath": "D:\\workspace\\mad-sad-glad\\api\\MadSadGladApi\\obj\\",
+      "outputPath": "D:\\workspace\\mad-sad-glad\\api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Umut\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F7OeNsT4Q4/9/k+hFqUspsrkzK2TklCLJhgOSC9SdMVaQx751Y2/jzIN75oJ/XPSXBk7ar8AzTlZWJtuD1tCYg==",
+  "dgSpecHash": "lNrxk6CJl+aX2/yG8eARxSVH12MDf6KfXzpPJafq433mCjy+8CfGmkJ7i+RzgUKg3siDp5eJ9CB2m/VrFNTJRw==",
   "success": true,
-  "projectFilePath": "D:\\workspace\\mad-sad-glad\\api\\MadSadGladApi\\MadSadGladApi.csproj",
+  "projectFilePath": "D:\\workspace\\mad-sad-glad\\api\\MadSadGladApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Umut\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Umut\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
